@@ -1,11 +1,6 @@
-img {
-  border-radius: 0%;
-  display: block;
-  margin: 1.5rem auto 0;
-
-  max-width:50%;
-  max-height:50%;
-}
-
-body {background-color: #006CB7; }
+body {     background: #006CB7 url(xface3.png) no-repeat 50% 50%;
+    background-size: contain;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden; }
 
